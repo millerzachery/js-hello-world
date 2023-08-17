@@ -4,7 +4,12 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log ("Hello, Zach")
+console.log (94)
+console.log ("novice coder")
+console.log ("lost in the sauce")
+console.log ("I hope Im doing this correctly"),console.log ("Here goes nothing")
+console.log ('A wise man once said, "With great power, comes great responsibility"')
 
 /*  
 Next, PLAY! 
